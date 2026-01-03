@@ -1,8 +1,9 @@
 num = int(input("Enter the number you want the table for"))
 
+
 # string Formatting "f"
 name = input("Enter dost ka name")
-print(f"Hello Dosto,{name} ")
+print(f"Hello Dosto guys,{name} ")
 # two ones are 2
 # two tows are 4
 
